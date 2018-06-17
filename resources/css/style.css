@@ -1,0 +1,43 @@
+body{
+  font-family: Helvetica;
+  text-align: center;
+}
+h1,
+h2,
+h3{
+  font-weight: bold;
+}
+
+#landing,
+.work{
+background-image: url(../photos/building.png);
+}
+h1{
+  font-size: 70px;
+color: white;
+  }
+.process{
+  font-size: 32px;
+}
+h3{
+  font-size: 23px;
+}
+
+p{
+  font-size: 14px;
+}
+
+/*Footer and Navigation*/
+.btm-nav,
+#footer{
+    color: white;
+}
+.btm-nav{
+  font-size: 18px;
+}
+#footer{
+    font-size: 11px;
+      background-color: dimgray;
+        text-align: left;
+
+}
